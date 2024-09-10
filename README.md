@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Rudranil Chowdhury, a front-end developer from India. I am currently pursuing my undergrad in Electronics and Communications Engineering. I have a passion for technology in general which gives me motivation to understand and build applications and hardware accessories.  
+Hi, I am Rudranil Chowdhury, a developer from India. I am currently pursuing my undergrad in Electronics and Communications Engineering. I have a passion for technology in general which gives me motivation to understand and build applications and hardware accessories.  
 
 
 ## 🌐 Socials:
