@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I am Rudranil Chowdhury, a developer from India. I am currently pursuing my undergrad in Electronics and Communications Engineering. I have a passion for technology in general which gives me motivation to understand and build applications and hardware accessories.  
-
+I'm Rudranil Chowdhury, an Electronics & Communication Engineering student passionate about building cool things at the intersection of software, hardware, and AI.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tyu.rty.526) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1tz_rudra_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil-chowdhury-39813b290) 
